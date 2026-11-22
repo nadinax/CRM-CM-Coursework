@@ -1,0 +1,504 @@
+ticker,company,sector,included,reason
+MMM,3M,Industrials,True,passed all rules
+AOS,A. O. Smith,Industrials,True,passed all rules
+ABT,Abbott Laboratories,Health Care,True,passed all rules
+ABBV,AbbVie,Health Care,True,passed all rules
+ACN,Accenture,Information Technology,True,passed all rules
+ADBE,Adobe Inc.,Information Technology,True,passed all rules
+AMD,Advanced Micro Devices,Information Technology,True,passed all rules
+AES,AES Corporation,Utilities,True,passed all rules
+AFL,Aflac,Financials,True,passed all rules
+A,Agilent Technologies,Health Care,True,passed all rules
+APD,Air Products,Materials,True,passed all rules
+ABNB,Airbnb,Consumer Discretionary,True,passed all rules
+AKAM,Akamai Technologies,Information Technology,True,passed all rules
+ALB,Albemarle Corporation,Materials,True,passed all rules
+ARE,Alexandria Real Estate Equities,Real Estate,True,passed all rules
+ALGN,Align Technology,Health Care,True,passed all rules
+ALLE,Allegion,Industrials,True,passed all rules
+LNT,Alliant Energy,Utilities,True,passed all rules
+ALL,Allstate,Financials,True,passed all rules
+GOOGL,Alphabet Inc. (Class A),Communication Services,True,passed all rules
+GOOG,Alphabet Inc. (Class C),Communication Services,True,passed all rules
+MO,Altria,Consumer Staples,True,passed all rules
+AMZN,Amazon,Consumer Discretionary,True,passed all rules
+AMCR,Amcor,Materials,True,passed all rules
+AEE,Ameren,Utilities,True,passed all rules
+AEP,American Electric Power,Utilities,True,passed all rules
+AXP,American Express,Financials,True,passed all rules
+AIG,American International Group,Financials,True,passed all rules
+AMT,American Tower,Real Estate,True,passed all rules
+AWK,American Water Works,Utilities,True,passed all rules
+AMP,Ameriprise Financial,Financials,True,passed all rules
+AME,Ametek,Industrials,True,passed all rules
+AMGN,Amgen,Health Care,True,passed all rules
+APH,Amphenol,Information Technology,True,passed all rules
+ADI,Analog Devices,Information Technology,True,passed all rules
+AON,Aon plc,Financials,True,passed all rules
+APA,APA Corporation,Energy,True,passed all rules
+APO,Apollo Global Management,Financials,True,passed all rules
+AAPL,Apple Inc.,Information Technology,True,passed all rules
+AMAT,Applied Materials,Information Technology,True,passed all rules
+APP,AppLovin,Communication Services,False,missing values/unequal history (70 missing adj days)
+APTV,Aptiv,Consumer Discretionary,True,passed all rules
+ACGL,Arch Capital Group,Financials,True,passed all rules
+ADM,Archer Daniels Midland,Consumer Staples,True,passed all rules
+ARES,Ares Management,Financials,True,passed all rules
+ANET,Arista Networks,Information Technology,True,passed all rules
+AJG,Arthur J. Gallagher & Co.,Financials,True,passed all rules
+AIZ,Assurant,Financials,True,passed all rules
+T,AT&T,Communication Services,True,passed all rules
+ATO,Atmos Energy,Utilities,True,passed all rules
+ADSK,Autodesk,Information Technology,True,passed all rules
+ADP,Automatic Data Processing,Industrials,True,passed all rules
+AZO,AutoZone,Consumer Discretionary,True,passed all rules
+AVY,Avery Dennison,Materials,True,passed all rules
+AXON,Axon Enterprise,Industrials,True,passed all rules
+BKR,Baker Hughes,Energy,True,passed all rules
+BALL,Ball Corporation,Materials,True,passed all rules
+BAC,Bank of America,Financials,True,passed all rules
+BAX,Baxter International,Health Care,True,passed all rules
+BDX,Becton Dickinson,Health Care,True,passed all rules
+BRK-B,Berkshire Hathaway,Financials,True,passed all rules
+BBY,Best Buy,Consumer Discretionary,True,passed all rules
+TECH,Bio-Techne,Health Care,True,passed all rules
+BIIB,Biogen,Health Care,True,passed all rules
+BLK,BlackRock,Financials,True,passed all rules
+BX,Blackstone Inc.,Financials,True,passed all rules
+XYZ,"Block, Inc.",Financials,True,passed all rules
+BE,Bloom Energy,Industrials,True,passed all rules
+BNY,BNY Mellon,Financials,True,passed all rules
+BA,Boeing,Industrials,True,passed all rules
+BKNG,Booking Holdings,Consumer Discretionary,True,passed all rules
+BSX,Boston Scientific,Health Care,True,passed all rules
+BMY,Bristol Myers Squibb,Health Care,True,passed all rules
+AVGO,Broadcom,Information Technology,True,passed all rules
+BR,Broadridge Financial Solutions,Industrials,True,passed all rules
+BRO,Brown & Brown,Financials,True,passed all rules
+BF-B,Brown–Forman,Consumer Staples,True,passed all rules
+BG,Bunge Global,Consumer Staples,True,passed all rules
+BXP,"BXP, Inc.",Real Estate,True,passed all rules
+CHRW,C.H. Robinson,Industrials,True,passed all rules
+CDNS,Cadence Design Systems,Information Technology,True,passed all rules
+CPT,Camden Property Trust,Real Estate,True,passed all rules
+COF,Capital One,Financials,True,passed all rules
+CAH,Cardinal Health,Health Care,True,passed all rules
+CCL,Carnival Corporation,Consumer Discretionary,True,passed all rules
+CARR,Carrier Global,Industrials,True,passed all rules
+CVNA,Carvana,Consumer Discretionary,True,passed all rules
+CASY,Casey's,Consumer Staples,True,passed all rules
+CAT,Caterpillar Inc.,Industrials,True,passed all rules
+CBOE,Cboe Global Markets,Financials,True,passed all rules
+CBRE,CBRE Group,Real Estate,True,passed all rules
+CDW,CDW Corporation,Information Technology,True,passed all rules
+COR,Cencora,Health Care,True,passed all rules
+CNC,Centene Corporation,Health Care,True,passed all rules
+CNP,CenterPoint Energy,Utilities,True,passed all rules
+CF,CF Industries,Materials,True,passed all rules
+CRL,Charles River Laboratories,Health Care,True,passed all rules
+SCHW,Charles Schwab Corporation,Financials,True,passed all rules
+CHTR,Charter Communications,Communication Services,True,passed all rules
+CVX,Chevron Corporation,Energy,True,passed all rules
+CMG,Chipotle Mexican Grill,Consumer Discretionary,True,passed all rules
+CB,Chubb Limited,Financials,True,passed all rules
+CHD,Church & Dwight,Consumer Staples,True,passed all rules
+CIEN,Ciena,Information Technology,True,passed all rules
+CI,Cigna,Health Care,True,passed all rules
+CINF,Cincinnati Financial,Financials,True,passed all rules
+CTAS,Cintas,Industrials,True,passed all rules
+CSCO,Cisco,Information Technology,True,passed all rules
+C,Citigroup,Financials,True,passed all rules
+CFG,Citizens Financial Group,Financials,True,passed all rules
+CLX,Clorox,Consumer Staples,True,passed all rules
+CME,CME Group,Financials,True,passed all rules
+CMS,CMS Energy,Utilities,True,passed all rules
+KO,Coca-Cola Company (The),Consumer Staples,True,passed all rules
+CTSH,Cognizant,Information Technology,True,passed all rules
+COHR,Coherent Corp.,Information Technology,True,passed all rules
+COIN,Coinbase,Financials,False,missing values/unequal history (69 missing adj days)
+CL,Colgate-Palmolive,Consumer Staples,True,passed all rules
+CMCSA,Comcast,Communication Services,True,passed all rules
+FIX,Comfort Systems USA,Industrials,True,passed all rules
+COP,ConocoPhillips,Energy,True,passed all rules
+ED,Consolidated Edison,Utilities,True,passed all rules
+STZ,Constellation Brands,Consumer Staples,True,passed all rules
+CEG,Constellation Energy,Utilities,False,missing values/unequal history (263 missing adj days)
+COO,Cooper Companies (The),Health Care,True,passed all rules
+CPRT,Copart,Industrials,True,passed all rules
+GLW,Corning Inc.,Information Technology,True,passed all rules
+CPAY,Corpay,Financials,True,passed all rules
+CSGP,CoStar Group,Real Estate,True,passed all rules
+COST,Costco,Consumer Staples,True,passed all rules
+CRH,CRH plc,Materials,True,passed all rules
+CRWD,CrowdStrike,Information Technology,True,passed all rules
+CCI,Crown Castle,Real Estate,True,passed all rules
+CSX,CSX Corporation,Industrials,True,passed all rules
+CMI,Cummins,Industrials,True,passed all rules
+CVS,CVS Health,Health Care,True,passed all rules
+DHR,Danaher Corporation,Health Care,True,passed all rules
+DRI,Darden Restaurants,Consumer Discretionary,True,passed all rules
+DDOG,Datadog,Information Technology,True,passed all rules
+DVA,DaVita,Health Care,True,passed all rules
+DECK,Deckers Brands,Consumer Discretionary,True,passed all rules
+DE,Deere & Company,Industrials,True,passed all rules
+DELL,Dell Technologies,Information Technology,True,passed all rules
+DAL,Delta Air Lines,Industrials,True,passed all rules
+DVN,Devon Energy,Energy,True,passed all rules
+DXCM,Dexcom,Health Care,True,passed all rules
+FANG,Diamondback Energy,Energy,True,passed all rules
+DLR,Digital Realty,Real Estate,True,passed all rules
+DG,Dollar General,Consumer Staples,True,passed all rules
+DLTR,Dollar Tree,Consumer Staples,True,passed all rules
+D,Dominion Energy,Utilities,True,passed all rules
+DPZ,Domino's,Consumer Discretionary,True,passed all rules
+DASH,DoorDash,Consumer Discretionary,True,passed all rules
+DOV,Dover Corporation,Industrials,True,passed all rules
+DOW,Dow Inc.,Materials,True,passed all rules
+DHI,D. R. Horton,Consumer Discretionary,True,passed all rules
+DTE,DTE Energy,Utilities,True,passed all rules
+DUK,Duke Energy,Utilities,True,passed all rules
+DD,DuPont,Industrials,True,passed all rules
+ETN,Eaton Corporation,Industrials,True,passed all rules
+EBAY,eBay Inc.,Consumer Discretionary,True,passed all rules
+ECHO,EchoStar,Communication Services,True,passed all rules
+ECL,Ecolab,Materials,True,passed all rules
+EIX,Edison International,Utilities,True,passed all rules
+EW,Edwards Lifesciences,Health Care,True,passed all rules
+ELV,Elevance Health,Health Care,True,passed all rules
+EME,Emcor,Industrials,True,passed all rules
+EMR,Emerson Electric,Industrials,True,passed all rules
+ETR,Entergy,Utilities,True,passed all rules
+EOG,EOG Resources,Energy,True,passed all rules
+EQT,EQT Corporation,Energy,True,passed all rules
+EFX,Equifax,Industrials,True,passed all rules
+EQIX,Equinix,Real Estate,True,passed all rules
+ERIE,Erie Indemnity,Financials,True,passed all rules
+ESS,Essex Property Trust,Real Estate,True,passed all rules
+EL,Estée Lauder Companies (The),Consumer Staples,True,passed all rules
+EG,Everest Group,Financials,True,passed all rules
+EVRG,Evergy,Utilities,True,passed all rules
+P,Everpure,Information Technology,True,passed all rules
+ES,Eversource Energy,Utilities,True,passed all rules
+EXC,Exelon,Utilities,True,passed all rules
+EXE,Expand Energy,Energy,False,missing values/unequal history (26 missing adj days)
+EXPE,Expedia Group,Consumer Discretionary,True,passed all rules
+EXPD,Expeditors International,Industrials,True,passed all rules
+EXR,Extra Space Storage,Real Estate,True,passed all rules
+XOM,ExxonMobil,Energy,True,passed all rules
+FFIV,"F5, Inc.",Information Technology,True,passed all rules
+FDS,FactSet,Financials,True,passed all rules
+FICO,Fair Isaac,Information Technology,True,passed all rules
+FAST,Fastenal,Industrials,True,passed all rules
+FRT,Federal Realty Investment Trust,Real Estate,True,passed all rules
+FDX,FedEx,Industrials,True,passed all rules
+FDXF,FedEx Freight,Industrials,False,no data returned
+FERG,Ferguson Enterprises,Industrials,False,zero/negative volume day
+FIS,Fidelity National Information Services,Financials,True,passed all rules
+FITB,Fifth Third Bancorp,Financials,True,passed all rules
+FSLR,First Solar,Information Technology,True,passed all rules
+FE,FirstEnergy,Utilities,True,passed all rules
+FISV,Fiserv,Financials,True,passed all rules
+FLEX,Flex Ltd.,Information Technology,True,passed all rules
+F,Ford Motor Company,Consumer Discretionary,True,passed all rules
+FTNT,Fortinet,Information Technology,True,passed all rules
+FTV,Fortive,Industrials,True,passed all rules
+FOXA,Fox Corporation (Class A),Communication Services,True,passed all rules
+FOX,Fox Corporation (Class B),Communication Services,True,passed all rules
+BEN,Franklin Resources,Financials,True,passed all rules
+FCX,Freeport-McMoRan,Materials,True,passed all rules
+GRMN,Garmin,Consumer Discretionary,True,passed all rules
+IT,Gartner,Information Technology,True,passed all rules
+GE,GE Aerospace,Industrials,True,passed all rules
+GEHC,GE HealthCare,Health Care,False,missing values/unequal history (492 missing adj days)
+GEV,GE Vernova,Industrials,False,missing values/unequal history (812 missing adj days)
+GEN,Gen Digital,Information Technology,True,passed all rules
+GNRC,Generac,Industrials,True,passed all rules
+GD,General Dynamics,Industrials,True,passed all rules
+GIS,General Mills,Consumer Staples,True,passed all rules
+GM,General Motors,Consumer Discretionary,True,passed all rules
+GPC,Genuine Parts Company,Consumer Discretionary,True,passed all rules
+GILD,Gilead Sciences,Health Care,True,passed all rules
+GPN,Global Payments,Financials,True,passed all rules
+GL,Globe Life,Financials,True,passed all rules
+GDDY,GoDaddy,Information Technology,True,passed all rules
+GS,Goldman Sachs,Financials,True,passed all rules
+HAL,Halliburton,Energy,True,passed all rules
+HIG,Hartford (The),Financials,True,passed all rules
+HAS,Hasbro,Consumer Discretionary,True,passed all rules
+HCA,HCA Healthcare,Health Care,True,passed all rules
+DOC,Healthpeak Properties,Real Estate,True,passed all rules
+HSIC,Henry Schein,Health Care,True,passed all rules
+HSY,Hershey Company (The),Consumer Staples,True,passed all rules
+HPE,Hewlett Packard Enterprise,Information Technology,True,passed all rules
+HLT,Hilton Worldwide,Consumer Discretionary,True,passed all rules
+HD,Home Depot (The),Consumer Discretionary,True,passed all rules
+HONA,Honeywell Aerospace,Industrials,False,no data returned
+HON,Honeywell Technologies,Industrials,True,passed all rules
+HRL,Hormel Foods,Consumer Staples,True,passed all rules
+HST,Host Hotels & Resorts,Real Estate,True,passed all rules
+HWM,Howmet Aerospace,Industrials,True,passed all rules
+HPQ,HP Inc.,Information Technology,True,passed all rules
+HUBB,Hubbell Incorporated,Industrials,True,passed all rules
+HUM,Humana,Health Care,True,passed all rules
+HBAN,Huntington Bancshares,Financials,True,passed all rules
+HII,Huntington Ingalls Industries,Industrials,True,passed all rules
+IBM,IBM,Information Technology,True,passed all rules
+IEX,IDEX Corporation,Industrials,True,passed all rules
+IDXX,Idexx Laboratories,Health Care,True,passed all rules
+ITW,Illinois Tool Works,Industrials,True,passed all rules
+ILMN,"Illumina, Inc.",Health Care,True,passed all rules
+INCY,Incyte,Health Care,True,passed all rules
+IR,Ingersoll Rand,Industrials,True,passed all rules
+PODD,Insulet Corporation,Health Care,True,passed all rules
+INTC,Intel,Information Technology,True,passed all rules
+IBKR,Interactive Brokers,Financials,True,passed all rules
+ICE,Intercontinental Exchange,Financials,True,passed all rules
+IFF,International Flavors & Fragrances,Materials,True,passed all rules
+IP,International Paper,Materials,True,passed all rules
+INTU,Intuit,Information Technology,True,passed all rules
+ISRG,Intuitive Surgical,Health Care,True,passed all rules
+IVZ,Invesco,Financials,True,passed all rules
+INVH,Invitation Homes,Real Estate,True,passed all rules
+IQV,IQVIA,Health Care,True,passed all rules
+IRM,Iron Mountain,Real Estate,True,passed all rules
+JBHT,J.B. Hunt,Industrials,True,passed all rules
+JBL,Jabil,Information Technology,True,passed all rules
+JKHY,Jack Henry & Associates,Financials,True,passed all rules
+J,Jacobs Solutions,Industrials,True,passed all rules
+JNJ,Johnson & Johnson,Health Care,True,passed all rules
+JCI,Johnson Controls,Industrials,True,passed all rules
+JPM,JPMorgan Chase,Financials,True,passed all rules
+KDP,Keurig Dr Pepper,Consumer Staples,True,passed all rules
+KEY,KeyCorp,Financials,True,passed all rules
+KEYS,Keysight Technologies,Information Technology,True,passed all rules
+KMB,Kimberly-Clark,Consumer Staples,True,passed all rules
+KIM,Kimco Realty,Real Estate,True,passed all rules
+KMI,Kinder Morgan,Energy,True,passed all rules
+KKR,KKR & Co.,Financials,True,passed all rules
+KLAC,KLA Corporation,Information Technology,True,passed all rules
+KHC,Kraft Heinz,Consumer Staples,True,passed all rules
+KR,Kroger,Consumer Staples,True,passed all rules
+LHX,L3Harris,Industrials,True,passed all rules
+LH,Labcorp,Health Care,True,passed all rules
+LRCX,Lam Research,Information Technology,True,passed all rules
+LVS,Las Vegas Sands,Consumer Discretionary,True,passed all rules
+LDOS,Leidos,Industrials,True,passed all rules
+LEN,Lennar,Consumer Discretionary,True,passed all rules
+LII,Lennox International,Industrials,True,passed all rules
+LLY,Lilly (Eli),Health Care,True,passed all rules
+LIN,Linde plc,Materials,True,passed all rules
+LYV,Live Nation Entertainment,Communication Services,True,passed all rules
+LMT,Lockheed Martin,Industrials,True,passed all rules
+L,Loews Corporation,Financials,True,passed all rules
+LOW,Lowe's,Consumer Discretionary,True,passed all rules
+LULU,Lululemon Athletica,Consumer Discretionary,True,passed all rules
+LITE,Lumentum,Information Technology,True,passed all rules
+LYB,LyondellBasell,Materials,True,passed all rules
+MTB,M&T Bank,Financials,True,passed all rules
+MPC,Marathon Petroleum,Energy,True,passed all rules
+MAR,Marriott International,Consumer Discretionary,True,passed all rules
+MRSH,Marsh McLennan,Financials,True,passed all rules
+MLM,Martin Marietta Materials,Materials,True,passed all rules
+MRVL,Marvell Technology,Information Technology,True,passed all rules
+MAS,Masco,Industrials,True,passed all rules
+MA,Mastercard,Financials,True,passed all rules
+MKC,McCormick & Company,Consumer Staples,True,passed all rules
+MCD,McDonald's,Consumer Discretionary,True,passed all rules
+MCK,McKesson,Health Care,True,passed all rules
+MDT,Medtronic,Health Care,True,passed all rules
+MRK,Merck & Co.,Health Care,True,passed all rules
+META,Meta Platforms,Communication Services,True,passed all rules
+MET,MetLife,Financials,True,passed all rules
+MTD,Mettler Toledo,Health Care,True,passed all rules
+MGM,MGM Resorts,Consumer Discretionary,True,passed all rules
+MCHP,Microchip Technology,Information Technology,True,passed all rules
+MU,Micron Technology,Information Technology,True,passed all rules
+MSFT,Microsoft,Information Technology,True,passed all rules
+MAA,Mid-America Apartment Communities,Real Estate,True,passed all rules
+MRNA,Moderna,Health Care,True,passed all rules
+MDLZ,Mondelez International,Consumer Staples,True,passed all rules
+MPWR,Monolithic Power Systems,Information Technology,True,passed all rules
+MNST,Monster Beverage,Consumer Staples,True,passed all rules
+MCO,Moody's Corporation,Financials,True,passed all rules
+MS,Morgan Stanley,Financials,True,passed all rules
+MOS,Mosaic Company (The),Materials,True,passed all rules
+MSI,Motorola Solutions,Information Technology,True,passed all rules
+MSCI,MSCI,Financials,True,passed all rules
+NDAQ,"Nasdaq, Inc.",Financials,True,passed all rules
+NTAP,NetApp,Information Technology,True,passed all rules
+NFLX,Netflix,Communication Services,True,passed all rules
+NEM,Newmont,Materials,True,passed all rules
+NWSA,News Corp (Class A),Communication Services,True,passed all rules
+NWS,News Corp (Class B),Communication Services,True,passed all rules
+NEE,NextEra Energy,Utilities,True,passed all rules
+NKE,"Nike, Inc.",Consumer Discretionary,True,passed all rules
+NI,NiSource,Utilities,True,passed all rules
+NDSN,Nordson Corporation,Industrials,True,passed all rules
+NSC,Norfolk Southern,Industrials,True,passed all rules
+NTRS,Northern Trust,Financials,True,passed all rules
+NOC,Northrop Grumman,Industrials,True,passed all rules
+NCLH,Norwegian Cruise Line Holdings,Consumer Discretionary,True,passed all rules
+NRG,NRG Energy,Utilities,True,passed all rules
+NUE,Nucor,Materials,True,passed all rules
+NVDA,Nvidia,Information Technology,True,passed all rules
+NVR,"NVR, Inc.",Consumer Discretionary,True,passed all rules
+NXPI,NXP Semiconductors,Information Technology,True,passed all rules
+ORLY,O'Reilly Automotive,Consumer Discretionary,True,passed all rules
+OXY,Occidental Petroleum,Energy,True,passed all rules
+OKTA,"Okta, Inc.",Information Technology,True,passed all rules
+ODFL,Old Dominion,Industrials,True,passed all rules
+OMC,Omnicom Group,Communication Services,True,passed all rules
+ON,ON Semiconductor,Information Technology,True,passed all rules
+OKE,Oneok,Energy,True,passed all rules
+ORCL,Oracle Corporation,Information Technology,True,passed all rules
+OTIS,Otis Worldwide,Industrials,True,passed all rules
+PCAR,Paccar,Industrials,True,passed all rules
+PKG,Packaging Corporation of America,Materials,True,passed all rules
+PLTR,Palantir Technologies,Information Technology,True,passed all rules
+PANW,Palo Alto Networks,Information Technology,True,passed all rules
+PH,Parker Hannifin,Industrials,True,passed all rules
+PAYX,Paychex,Industrials,True,passed all rules
+PYPL,PayPal,Financials,True,passed all rules
+PNR,Pentair,Industrials,True,passed all rules
+PEP,PepsiCo,Consumer Staples,True,passed all rules
+PFE,Pfizer,Health Care,True,passed all rules
+PCG,PG&E Corporation,Utilities,True,passed all rules
+PM,Philip Morris International,Consumer Staples,True,passed all rules
+PSX,Phillips 66,Energy,True,passed all rules
+PNW,Pinnacle West Capital,Utilities,True,passed all rules
+PNC,PNC Financial Services,Financials,True,passed all rules
+PPG,PPG Industries,Materials,True,passed all rules
+PPL,PPL Corporation,Utilities,True,passed all rules
+PFG,Principal Financial Group,Financials,True,passed all rules
+PG,Procter & Gamble,Consumer Staples,True,passed all rules
+PGR,Progressive Corporation,Financials,True,passed all rules
+PLD,Prologis,Real Estate,True,passed all rules
+PRU,Prudential Financial,Financials,True,passed all rules
+PTC,PTC Inc.,Information Technology,True,passed all rules
+PEG,Public Service Enterprise Group,Utilities,True,passed all rules
+PSA,Public Storage,Real Estate,True,passed all rules
+PHM,PulteGroup,Consumer Discretionary,True,passed all rules
+Q,Qnity Electronics,Information Technology,False,no data returned
+QCOM,Qualcomm,Information Technology,True,passed all rules
+PWR,Quanta Services,Industrials,True,passed all rules
+DGX,Quest Diagnostics,Health Care,True,passed all rules
+RL,Ralph Lauren Corporation,Consumer Discretionary,True,passed all rules
+RJF,Raymond James Financial,Financials,True,passed all rules
+RDDT,Reddit,Communication Services,False,missing values/unequal history (808 missing adj days)
+O,Realty Income,Real Estate,True,passed all rules
+REG,Regency Centers,Real Estate,True,passed all rules
+REGN,Regeneron Pharmaceuticals,Health Care,True,passed all rules
+RF,Regions Financial Corporation,Financials,True,passed all rules
+RSG,Republic Services,Industrials,True,passed all rules
+RMD,ResMed,Health Care,True,passed all rules
+RVTY,Revvity,Health Care,True,passed all rules
+HOOD,Robinhood Markets,Financials,False,missing values/unequal history (143 missing adj days)
+ROK,Rockwell Automation,Industrials,True,passed all rules
+ROL,"Rollins, Inc.",Industrials,True,passed all rules
+ROP,Roper Technologies,Information Technology,True,passed all rules
+ROST,Ross Stores,Consumer Discretionary,True,passed all rules
+RCL,Royal Caribbean Group,Consumer Discretionary,True,passed all rules
+RTX,RTX Corporation,Industrials,True,passed all rules
+SPGI,S&P Global,Financials,True,passed all rules
+CRM,Salesforce,Information Technology,True,passed all rules
+SNDK,Sandisk,Information Technology,False,no data returned
+SBAC,SBA Communications,Real Estate,True,passed all rules
+SLB,Schlumberger,Energy,True,passed all rules
+STX,Seagate Technology,Information Technology,True,passed all rules
+SRE,Sempra,Utilities,True,passed all rules
+NOW,ServiceNow,Information Technology,True,passed all rules
+SHW,Sherwin-Williams,Materials,True,passed all rules
+SPG,Simon Property Group,Real Estate,True,passed all rules
+SKYD,Skydance,Communication Services,True,passed all rules
+SWKS,Skyworks Solutions,Information Technology,True,passed all rules
+SJM,J.M. Smucker Company (The),Consumer Staples,True,passed all rules
+SW,Smurfit Westrock,Materials,False,zero/negative volume day
+SNA,Snap-on,Industrials,True,passed all rules
+SOLV,Solventum,Health Care,False,missing values/unequal history (811 missing adj days)
+SO,Southern Company,Utilities,True,passed all rules
+LUV,Southwest Airlines,Industrials,True,passed all rules
+SWK,Stanley Black & Decker,Industrials,True,passed all rules
+SBUX,Starbucks,Consumer Discretionary,True,passed all rules
+STT,State Street Corporation,Financials,True,passed all rules
+STLD,Steel Dynamics,Materials,True,passed all rules
+STE,Steris,Health Care,True,passed all rules
+SYK,Stryker Corporation,Health Care,True,passed all rules
+SMCI,Supermicro,Information Technology,True,passed all rules
+SYF,Synchrony Financial,Financials,True,passed all rules
+SNPS,Synopsys,Information Technology,True,passed all rules
+SYY,Sysco,Consumer Staples,True,passed all rules
+TMUS,T-Mobile US,Communication Services,True,passed all rules
+TROW,T. Rowe Price,Financials,True,passed all rules
+TTWO,Take-Two Interactive,Communication Services,True,passed all rules
+TPR,"Tapestry, Inc.",Consumer Discretionary,True,passed all rules
+TRGP,Targa Resources,Energy,True,passed all rules
+TGT,Target Corporation,Consumer Staples,True,passed all rules
+TEL,TE Connectivity,Information Technology,True,passed all rules
+TDY,Teledyne Technologies,Information Technology,True,passed all rules
+TER,Teradyne,Information Technology,True,passed all rules
+TSLA,"Tesla, Inc.",Consumer Discretionary,True,passed all rules
+TXN,Texas Instruments,Information Technology,True,passed all rules
+TPL,Texas Pacific Land Corporation,Energy,True,passed all rules
+TXT,Textron,Industrials,True,passed all rules
+TMO,Thermo Fisher Scientific,Health Care,True,passed all rules
+TJX,TJX Companies,Consumer Discretionary,True,passed all rules
+TKO,TKO Group Holdings,Communication Services,True,passed all rules
+TSCO,Tractor Supply,Consumer Discretionary,True,passed all rules
+TT,Trane Technologies,Industrials,True,passed all rules
+TDG,TransDigm Group,Industrials,True,passed all rules
+TRV,Travelers Companies (The),Financials,True,passed all rules
+TRMB,Trimble Inc.,Information Technology,True,passed all rules
+TFC,Truist Financial,Financials,True,passed all rules
+TWLO,Twilio,Information Technology,True,passed all rules
+TYL,Tyler Technologies,Information Technology,True,passed all rules
+TSN,Tyson Foods,Consumer Staples,True,passed all rules
+USB,U.S. Bancorp,Financials,True,passed all rules
+UBER,Uber,Industrials,True,passed all rules
+UDR,"UDR, Inc.",Real Estate,True,passed all rules
+ULTA,Ulta Beauty,Consumer Discretionary,True,passed all rules
+UNP,Union Pacific Corporation,Industrials,True,passed all rules
+UAL,United Airlines Holdings,Industrials,True,passed all rules
+UPS,United Parcel Service,Industrials,True,passed all rules
+URI,United Rentals,Industrials,True,passed all rules
+UNH,UnitedHealth Group,Health Care,True,passed all rules
+UHS,Universal Health Services,Health Care,True,passed all rules
+VLO,Valero Energy,Energy,True,passed all rules
+VEEV,Veeva Systems,Health Care,True,passed all rules
+VTR,Ventas,Real Estate,True,passed all rules
+VLTO,Veralto,Industrials,False,missing values/unequal history (692 missing adj days)
+VRSN,Verisign,Information Technology,True,passed all rules
+VRSK,Verisk Analytics,Industrials,True,passed all rules
+VZ,Verizon,Communication Services,True,passed all rules
+VRTX,Vertex Pharmaceuticals,Health Care,True,passed all rules
+VRT,Vertiv,Industrials,True,passed all rules
+VTRS,Viatris,Health Care,True,passed all rules
+VICI,Vici Properties,Real Estate,True,passed all rules
+V,Visa Inc.,Financials,True,passed all rules
+VST,Vistra Corp.,Utilities,True,passed all rules
+VMRK,Vivmark Residential,Real Estate,True,passed all rules
+VMC,Vulcan Materials Company,Materials,True,passed all rules
+VYLR,Vylor,Consumer Staples,False,no data returned
+WRB,W. R. Berkley Corporation,Financials,True,passed all rules
+GWW,W. W. Grainger,Industrials,True,passed all rules
+WAB,Wabtec,Industrials,True,passed all rules
+WMT,Walmart,Consumer Staples,True,passed all rules
+DIS,Walt Disney Company (The),Communication Services,True,passed all rules
+WM,Waste Management,Industrials,True,passed all rules
+WAT,Waters Corporation,Health Care,True,passed all rules
+WEC,WEC Energy Group,Utilities,True,passed all rules
+WFC,Wells Fargo,Financials,True,passed all rules
+WELL,Welltower,Real Estate,True,passed all rules
+WST,West Pharmaceutical Services,Health Care,True,passed all rules
+WDC,Western Digital,Information Technology,True,passed all rules
+WY,Weyerhaeuser,Real Estate,True,passed all rules
+WSM,"Williams-Sonoma, Inc.",Consumer Discretionary,True,passed all rules
+WMB,Williams Companies,Energy,True,passed all rules
+WTW,Willis Towers Watson,Financials,True,passed all rules
+WDAY,"Workday, Inc.",Information Technology,True,passed all rules
+WYNN,Wynn Resorts,Consumer Discretionary,True,passed all rules
+XEL,Xcel Energy,Utilities,True,passed all rules
+XYL,Xylem Inc.,Industrials,True,passed all rules
+YUM,Yum! Brands,Consumer Discretionary,True,passed all rules
+ZBRA,Zebra Technologies,Information Technology,True,passed all rules
+ZBH,Zimmer Biomet,Health Care,True,passed all rules
+ZTS,Zoetis,Health Care,True,passed all rules

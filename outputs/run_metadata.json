@@ -1,0 +1,33 @@
+{
+  "calc_version": "v1.0",
+  "retrieval_date": "2026-11-22",
+  "wikipedia_url": "https://en.wikipedia.org/wiki/List_of_S%26P_500_companies",
+  "study_start": "2021-01-01",
+  "study_end_exclusive": "2025-01-01",
+  "observation_date": "2024-12-31",
+  "rfm_window_sessions": 60,
+  "baseline_sessions": 20,
+  "high_volume_multiplier": 2.0,
+  "weekly_obs": 207,
+  "n_valid_shares": 486,
+  "n_listed": 503,
+  "seed": 42,
+  "kmeans_n_init": 50,
+  "selected_k": {
+    "ward_rr": 2,
+    "ward_rfm": 2,
+    "kmeans_rr": 2,
+    "kmeans_rfm": 2
+  },
+  "data_source": "yfinance (Yahoo Finance), auto_adjust=False",
+  "python": "3.13.18",
+  "packages": {
+    "numpy": "2.4.6",
+    "pandas": "2.2.3",
+    "seaborn": "0.13.2",
+    "scikit-learn": "1.6.1",
+    "scipy": "1.16.3",
+    "matplotlib": "3.10.0",
+    "yfinance": "1.8.0"
+  }
+}
