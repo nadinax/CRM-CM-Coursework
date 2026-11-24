@@ -10,3 +10,14 @@ Pipeline: S&P 500 constituents (Wikipedia) + prices/volume (yfinance, `auto_adju
 
 Seed 42; K-means n_init=50. Observation date and package versions are recorded in `outputs/run_metadata.json`.
 Data snapshot is small CSV; commit it so the tutor can reproduce without Yahoo access.
+
+## Running without Google Drive (for markers)
+The notebook's Google Drive cell (Section 2) is only for the author's workflow.
+To reproduce the results from this repository:
+1. Open a new Colab notebook and run:
+   !git clone https://github.com/nadinax/CRM-CM-Coursework.git
+   %cd CRM-CM-Coursework
+   !pip install -q -r requirements.txt
+   !python src/analysis.py
+2. The script reads the saved snapshot in data/ (no Yahoo access needed) and writes results to outputs/.
+Do not run the Drive cell; without it, paths default to data/ and outputs/.
